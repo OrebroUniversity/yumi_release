@@ -1,0 +1,13 @@
+Source: ros-indigo-yumi-support
+Section: misc
+Priority: extra
+Maintainer: Todor Stoyanov <todor.stoyanov@oru.se>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-yumi-support
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-abb-driver
+Description: RAPID code and launch files for the abb driver for yumi This is a modified driver from the ROS-Industrial abb driver.
+ Main changes are for handling the two arms of YuMi in a reasonable manner. The orriginal package is part of the ROS-Industrial program and contains nodes for interfacing with ABB industrial robot controllers.
