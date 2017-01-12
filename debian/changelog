@@ -1,0 +1,15 @@
+ros-indigo-gazebo-mimic (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Robert Krug <robert.krug@oru.se>  Wed, 11 Jan 2017 23:00:00 -0000
+
+ros-indigo-gazebo-mimic (0.0.2-0trusty) trusty; urgency=high
+
+  * fix for backcompatibility with gazebo
+  * the mimic plugin that we probably forgot to commit long time ago
+  * Contributors: Todor Stoyanov
+
+ -- Robert Krug <robert.krug@oru.se>  Mon, 09 Jan 2017 23:00:00 -0000
+
+
