@@ -1,0 +1,16 @@
+ros-indigo-yumi-hw (0.0.4-0saucy) saucy; urgency=high
+
+  * Fix for message generation dependency
+  * Contributors: Todor Stoyanov
+
+ -- Todor Stoyanov <todor.stoyanov@oru.se>  Wed, 11 Jan 2017 23:00:00 -0000
+
+ros-indigo-yumi-hw (0.0.2-0saucy) saucy; urgency=high
+
+  * in order to run this you will need to re-compile from source with custom industrial_core from the OrebroUniversity github
+  * modifications to RAPID side for velocity tracking
+  * Contributors: Todor Stoyanov, Robert Krug
+
+ -- Todor Stoyanov <todor.stoyanov@oru.se>  Mon, 09 Jan 2017 23:00:00 -0000
+
+
