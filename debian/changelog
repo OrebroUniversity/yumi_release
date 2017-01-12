@@ -1,0 +1,16 @@
+ros-indigo-yumi-description (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Robert Krug <robert.krug@oru.se>  Wed, 11 Jan 2017 23:00:00 -0000
+
+ros-indigo-yumi-description (0.0.2-0trusty) trusty; urgency=high
+
+  * Add coarser meshes.
+  * Add exec_depend on xacro.
+  * skeleton of the yumi_description package
+  * Contributors: Maarten de Vries, Robert Krug, Todor Stoyanov
+
+ -- Robert Krug <robert.krug@oru.se>  Mon, 09 Jan 2017 23:00:00 -0000
+
+
