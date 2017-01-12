@@ -1,0 +1,12 @@
+Source: ros-indigo-yumi-hw
+Section: misc
+Priority: extra
+Maintainer: Todor Stoyanov <todor.stoyanov@oru.se>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-control-toolbox, ros-indigo-controller-interface, ros-indigo-controller-manager, ros-indigo-hardware-interface, ros-indigo-joint-limits-interface, ros-indigo-kdl-parser, ros-indigo-message-generation, ros-indigo-realtime-tools, ros-indigo-roscpp, ros-indigo-simple-message, ros-indigo-std-msgs, ros-indigo-tf, ros-indigo-transmission-interface, ros-indigo-urdf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-yumi-hw
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cmake-modules, ros-indigo-control-toolbox, ros-indigo-controller-interface, ros-indigo-controller-manager, ros-indigo-hardware-interface, ros-indigo-joint-limits-interface, ros-indigo-kdl-parser, ros-indigo-message-runtime, ros-indigo-realtime-tools, ros-indigo-roscpp, ros-indigo-simple-message, ros-indigo-std-msgs, ros-indigo-tf, ros-indigo-transmission-interface, ros-indigo-urdf
+Description: Hardware interface for YuMi, for use in roscontrol
